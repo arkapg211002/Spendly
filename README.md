@@ -1,5 +1,11 @@
 ## Spendly 
-### A Web Application to track expenses and budgets
+### A Web Application to track budgets and expenses
+
+![1](https://github.com/arkapg211002/Spendly/blob/main/SPENDLY1.png)
+![2](https://github.com/arkapg211002/Spendly/blob/main/SPENDLY2.png)
+![3](https://github.com/arkapg211002/Spendly/blob/main/SPENDLY3.png)
+![4](https://github.com/arkapg211002/Spendly/blob/main/SPENDLY4.png)
+![5](https://github.com/arkapg211002/Spendly/blob/main/SPENDLY5.png)
 
 
 ## Getting Started
